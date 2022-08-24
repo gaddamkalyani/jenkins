@@ -22,7 +22,7 @@
   <distributionManagement>
    <snapshotRepository>
       <id>nexus-repo</id>
-      <url>http://192.168.56.101:9000/nexus/content/repositories/snapshots</url>
+      <url>http://192.168.56.101:9081/nexus/content/repositories/snapshots</url>
    </snapshotRepository>
 </distributionManagement>
   <build>
